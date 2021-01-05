@@ -1,2 +1,2 @@
 @echo off
-py .\chrome.py
+py E:\bat_files\chrome.py
